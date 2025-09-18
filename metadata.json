@@ -1,0 +1,13 @@
+{
+	"id": "Curator",
+	"name": "The Curator",
+	"display_name": "The Curator",
+	"author": ["Maratby"],
+	"description": "This mod adds Booster Packs which contain Jokers which are all from the same mod. They can be randomly chosen or picked specifically, at your discretion.",
+	"prefix": "cura",
+	"main_file": "curator.lua",
+	"priority": 0,
+	"badge_colour": "FFFFFF",
+	"badge_text_colour": "000000",
+	"version": "0.1.0",
+}
