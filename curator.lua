@@ -40,6 +40,14 @@ Curator.blacklist = {
 	---add mods to the blacklist in the config.lua file in Curator's mod folder
 }
 
+---mod icon atlas
+SMODS.Atlas {
+	key = "modicon",
+	path = "icon.png",
+	px = 34,
+	py = 34,
+}
+
 ---atlases
 SMODS.Atlas({ key = 'curated-1st', path = 'curated1.png', px = 71, py = 95 })
 SMODS.Atlas({ key = 'curated-2nd', path = 'curated2.png', px = 71, py = 95 })
