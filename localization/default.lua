@@ -18,7 +18,7 @@ return {
 					"Choose {C:attention}#1#{} of up to",
                     "{C:attention}#2#{} Jokers{} from {C:dark_edition}#3#",
 					"{C:dark_edition}Mod{} selected randomly when Pack spawns",
-					"{s:0.5}art by {C:attention}Crabus72"
+					"{s:0.85}art by {C:attention,s:0.85}Crabus72"
 				},
 			},
 			["p_cura_curated_jumbo"] = {
@@ -27,7 +27,7 @@ return {
 					"Choose {C:attention}#1#{} of up to",
                     "{C:attention}#2#{} Jokers{} from {C:dark_edition}#3#",
 					"{C:dark_edition}Mod{} selected randomly when Pack spawns",
-					"{s:0.5}art by {C:attention}Crabus72"
+					"{s:0.85}art by {C:attention,s:0.85}Crabus72"
 				},
 			},
 			["p_cura_curated_mega"] = {
@@ -36,7 +36,7 @@ return {
 					"Choose {C:attention}#1#{} of up to",
                     "{C:attention}#2#{} Jokers{} from {C:dark_edition}#3#",
 					"{C:dark_edition}Mod{} selected randomly when Pack spawns",
-					"{s:0.5}art by {C:attention}Crabus72"
+					"{s:0.85}art by {C:attention,s:0.85}Crabus72"
 				},
 			},
 			["p_cura_curated_selector"] = {
@@ -47,7 +47,7 @@ return {
 					"from any {C:dark_edition}Mod{} of your choice",
 					"Click this pack to select a {C:dark_edition}Mod{}",
 					"{C:inactive}(Last selected: {C:dark_edition}#3#{C:inactive})",
-					"{s:0.5}art by {C:attention}Crabus72"
+					"{s:0.85}art by {C:attention,s:0.85}Crabus72"
 				},
 			},
 		},
